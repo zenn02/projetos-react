@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');     
+
+#cotemig {
+    margin-top: 300px;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    margin-left: 550px;
+    background-color: #F1F1F1;
+    color: #16213E;
+    box-shadow: 5px 2px 2px black;
+}
+
+#textoooo {
+    text-align: left;
+}
